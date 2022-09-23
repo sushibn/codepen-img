@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="552" height="509.333" viewBox="0 0 552 509.333">
+  <defs>
+    <filter id="Tracé_16311" x="9.5" y="0" width="335.735" height="232.944" filterUnits="userSpaceOnUse">
+      <feOffset dx="16" dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#05c7f2" stop-opacity="0.412"/>
+      <stop offset="1" stop-color="#85d3f2" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="Tracé_16327" x="8.5" y="136.889" width="335.889" height="372.445" filterUnits="userSpaceOnUse">
+      <feOffset dx="16" dy="16" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="16" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ux_ui_synergies" transform="translate(33.171 -13.894)">
+    <g id="Groupe_3624" data-name="Groupe 3624" transform="translate(-68.021)">
+      <g transform="matrix(1, 0, 0, 1, 34.85, 13.89)" filter="url(#Tracé_16311)">
+        <path id="Tracé_16311-2" data-name="Tracé 16311" d="M259.834,107.5l-8.705,8.036L214.968,66.653l-6.7,2.679L186.842,45.894,133.27,111.52,121.216,114.2,76.35,182.837H316.085Z" transform="translate(-34.85 -13.89)" fill="#c2dcf2"/>
+      </g>
+      <path id="Tracé_16312" data-name="Tracé 16312" d="M99.078,182.837h48.783l25.923-65.961L163.07,119.89l23.773-74L133.27,111.52l6.7,20.759Z" fill="#d7e9f4"/>
+      <path id="Tracé_16313" data-name="Tracé 16313" d="M121.216,114.2,76.35,182.837h9.375l38.84-60.492Z" fill="#d7e9f4"/>
+      <path id="Tracé_16315" data-name="Tracé 16315" d="M259.834,107.5l10.38,42.69-6.7,8.036,6.194-2.009L277.078,183H238.74l9.375-29.8,3.014-37.668Z" fill="#d7e9f4"/>
+      <path id="Tracé_16317" data-name="Tracé 16317" d="M121.216,114.2,85.725,182.837H76.35Z" fill="#edf5f9"/>
+      <path id="Tracé_16318" data-name="Tracé 16318" d="M214.968,66.653l-13.84,49.219-5.357.67,12.5-47.21Z" fill="#edf5f9"/>
+      <path id="Tracé_16319" data-name="Tracé 16319" d="M177.635,121.4l-22.35,61.482h9.459Z" fill="#edf5f9"/>
+      <path id="Tracé_16320" data-name="Tracé 16320" d="M251.129,115.537l-3.014,37.668L238.74,183H252.3l5.859-43.192Z" fill="#edf5f9"/>
+      <path id="Tracé_16321" data-name="Tracé 16321" d="M155.285,182.879h5.441l10.3-43.318Z" fill="#fff"/>
+      <path id="Tracé_16322" data-name="Tracé 16322" d="M115.413,178.15l27.009-38.393-18.3,38.728Z" fill="#fff"/>
+      <path id="Tracé_16323" data-name="Tracé 16323" d="M172.556,68.215,139.185,111.3l7.7,19.978L145.1,110.4Z" fill="#fff"/>
+      <path id="Tracé_16324" data-name="Tracé 16324" d="M208.271,69.331l-12.5,47.21,5.357-.67-20.759,66.965H168.427l23.438-58.929-10.547,1.339Z" fill="#afd1ef"/>
+    </g>
+    <rect id="Rectangle_3351" data-name="Rectangle 3351" width="551" height="299" transform="translate(-32.671 182.894)" fill="url(#linear-gradient)"/>
+    <g id="Groupe_3626" data-name="Groupe 3626" transform="translate(-69)">
+      <g transform="matrix(1, 0, 0, 1, 35.83, 13.89)" filter="url(#Tracé_16327)">
+        <path id="Tracé_16327-2" data-name="Tracé 16327" d="M109.4,297.745l24.148,97.037,63.111,64.444,37.778-33.778,17.778-57.185,8.3,3.556L278,343.338l7.991-51.619,21.342-21.381,8.889-87.259-239.889-.3,14.7,98.074Z" transform="translate(-35.83 -13.89)" fill="#05c7f2" opacity="0.6"/>
+      </g>
+      <g id="Groupe_3625" data-name="Groupe 3625">
+        <path id="Tracé_16328" data-name="Tracé 16328" d="M118.662,284.116l-.185-101.185-42.037-.037,14.593,97.963,18.37,16.889Z" fill="#085a8c"/>
+        <path id="Tracé_16329" data-name="Tracé 16329" d="M161.921,409.745l-18.37-85.926-2.37,52.741-7.63,18.222,62.97,64.3Z" fill="#085a8c"/>
+        <path id="Tracé_16330" data-name="Tracé 16330" d="M267.106,304.56l-14.889,63.7,8.3,3.556L278,343.338Z" fill="#085a8c"/>
+        <path id="Tracé_16331" data-name="Tracé 16331" d="M315.436,190.746l-30.108,54.7.658,46.27,21.342-21.381Z" fill="#085a8c"/>
+      </g>
+    </g>
+    <path id="Tracé_16332" data-name="Tracé 16332" d="M0,0H551" transform="translate(-32.671 182.782)" fill="none" stroke="#85d3f2" stroke-linecap="round" stroke-width="1"/>
+    <g id="Groupe_3646" data-name="Groupe 3646" transform="translate(0 7)">
+      <text id="UX" transform="translate(297.329 230.894)" fill="#070723" font-size="35" font-family="Stolzl-Medium, Stolzl" font-weight="500"><tspan x="-24.5" y="0">UX</tspan></text>
+      <g id="Groupe_3638" data-name="Groupe 3638" transform="translate(-35)">
+        <g id="Groupe_3629" data-name="Groupe 3629" transform="translate(0 29)">
+          <text id="Prototype_et_interactions" data-name="Prototype et interactions" transform="translate(311.329 236.894)" fill="#828290" font-size="16" font-family="URWForm-Medium, URW Form" font-weight="500"><tspan x="0" y="0">Prototype et interactions</tspan></text>
+        </g>
+        <g id="Groupe_3634" data-name="Groupe 3634">
+          <line id="Ligne_172" data-name="Ligne 172" x2="129.368" transform="translate(167.829 259.394)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <g id="Ellipse_2517" data-name="Ellipse 2517" transform="translate(155.329 252.894)" fill="none" stroke="#fff" stroke-width="3">
+            <circle cx="7" cy="7" r="7" stroke="none"/>
+            <circle cx="7" cy="7" r="5.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Groupe_3639" data-name="Groupe 3639" transform="translate(-35)">
+        <g id="Groupe_3632" data-name="Groupe 3632" transform="translate(0 11.7)">
+          <text id="Stratégie_UX" data-name="Stratégie UX" transform="translate(313.329 421.194)" fill="#828290" font-size="16" font-family="URWForm-Medium, URW Form" font-weight="500"><tspan x="0" y="0">Stratégie UX</tspan></text>
+        </g>
+        <g id="Groupe_3637" data-name="Groupe 3637" transform="translate(0 167)">
+          <line id="Ligne_172-2" data-name="Ligne 172" x2="129.368" transform="translate(167.829 259.394)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <g id="Ellipse_2517-2" data-name="Ellipse 2517" transform="translate(155.329 252.894)" fill="none" stroke="#fff" stroke-width="3">
+            <circle cx="7" cy="7" r="7" stroke="none"/>
+            <circle cx="7" cy="7" r="5.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <g id="Groupe_3645" data-name="Groupe 3645">
+        <g id="Groupe_3635" data-name="Groupe 3635" transform="translate(-35 56)">
+          <line id="Ligne_172-3" data-name="Ligne 172" x2="129.368" transform="translate(167.829 259.394)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <g id="Ellipse_2517-3" data-name="Ellipse 2517" transform="translate(155.329 252.894)" fill="none" stroke="#fff" stroke-width="3">
+            <circle cx="7" cy="7" r="7" stroke="none"/>
+            <circle cx="7" cy="7" r="5.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Groupe_3630" data-name="Groupe 3630" transform="translate(-35 27.367)">
+          <text id="Recherche_et_tests_utilisateurs" data-name="Recherche et tests utilisateurs" transform="translate(313.329 294.527)" fill="#828290" font-size="16" font-family="URWForm-Medium, URW Form" font-weight="500"><tspan x="0" y="0">Recherche et tests utilisateurs</tspan></text>
+        </g>
+      </g>
+      <g id="Groupe_3644" data-name="Groupe 3644">
+        <g id="Groupe_3636" data-name="Groupe 3636" transform="translate(-35 111)">
+          <line id="Ligne_172-4" data-name="Ligne 172" x2="129.368" transform="translate(167.829 259.394)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <g id="Ellipse_2517-4" data-name="Ellipse 2517" transform="translate(155.329 252.894)" fill="none" stroke="#fff" stroke-width="3">
+            <circle cx="7" cy="7" r="7" stroke="none"/>
+            <circle cx="7" cy="7" r="5.5" fill="none"/>
+          </g>
+        </g>
+        <g id="Groupe_3631" data-name="Groupe 3631" transform="translate(-35 15.959)">
+          <text id="Architecture_de_l_information" data-name="Architecture de l&apos;information" transform="translate(313.329 361.934)" fill="#828290" font-size="16" font-family="URWForm-Medium, URW Form" font-weight="500"><tspan x="0" y="0">Architecture de l&apos;information</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="Groupe_3642" data-name="Groupe 3642" transform="translate(0 7.889)">
+      <text id="UI" transform="translate(291.329 97.675)" fill="#070723" font-size="35" font-family="Stolzl-Medium, Stolzl" font-weight="500"><tspan x="-17.833" y="0">UI</tspan></text>
+      <g id="Groupe_3641" data-name="Groupe 3641">
+        <text id="Design_graphique" data-name="Design graphique" transform="translate(274.329 132.894)" fill="#828290" font-size="16" font-family="URWForm-Medium, URW Form" font-weight="500"><tspan x="0" y="0">Design graphique</tspan></text>
+        <g id="Groupe_3640" data-name="Groupe 3640" transform="translate(-35 -133)">
+          <line id="Ligne_172-5" data-name="Ligne 172" x2="129.368" transform="translate(167.829 259.394)" fill="none" stroke="#45455a" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1"/>
+          <g id="Ellipse_2517-5" data-name="Ellipse 2517" transform="translate(155.329 252.894)" fill="none" stroke="#45455a" stroke-width="3">
+            <circle cx="7" cy="7" r="7" stroke="none"/>
+            <circle cx="7" cy="7" r="5.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
